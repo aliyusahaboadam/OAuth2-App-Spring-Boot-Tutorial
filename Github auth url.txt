@@ -1,0 +1,8 @@
+Gitub OAuth2 app register links:
+https://github.com/settings/applications/new
+
+OAuth2 Url links:
+https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
+
+
+
